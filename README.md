@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavansy6
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning data science as well as python, java, html, css, javascript
+- 🌱 I’m currently learning data science and business analytics as well as python, java, html, css, javascript
 - 💞️ I’m looking to collaborate on maybe google, amazon etc.
 - 📫 How to reach me https://www.linkedin.com/in/pavan-yadav-7ab7b1287/
 
