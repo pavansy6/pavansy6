@@ -12,13 +12,13 @@
 <p align="center">
   <a href="mailto:pavansy2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/pavansyadav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!--   <a href="https://github.com/pavansy6"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a> -->
+  <a href="https://github.com/pavansy6"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🎭 About Me
-💡 Curious mind blending **Data Science + AI + Quant Finance**
+💡 Curious mind blending **Data Science + AI + Quant Finance**  
 📊 Skilled in **Python, R, SQL, Power BI, ML, NLP, DL**  
 🎓 Pursuing **B.Sc. in Data Science & Business Analytics** (CGPA 9.2/10)  
 🎸 Play **multiple instruments**, cook tasty dishes 🍳, and explore chess ♟️  
@@ -74,9 +74,10 @@
 
 ## 🎶 Fun Fact
 When I’m not crunching data, you’ll probably find me:  
-- Playing 🎸 or 🥁
-- Cooking 🍝 new recipes
-- Petting my cats 🐈
+- Playing 🎸 or 🥁  
+- Cooking 🍝 new recipes  
+- Analyzing chess games ♟️  
+
 ---
 
 <!-- Footer Banner -->
