@@ -1,90 +1,75 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1F,100:111827&height=180&section=header&text=Pavan%20Yadav&fontSize=44&fontColor=E5E7EB&fontAlignY=40"/>
+# terminal --user pavan
 
----
+``` bash
+$ whoami
+Pavan Yadav
 
-# Quantitative Research & System Design
+$ role
+Quantitative Researcher / System Builder
 
-Building probabilistic decision systems for uncertain markets.
+$ philosophy
+"Edge is engineered. Risk is managed. Noise is ignored."
+```
 
----
+------------------------------------------------------------------------
 
-## Focus
+``` bash
+$ focus --current
+> market_microstructure
+> liquidity_dynamics
+> regime_classification
+> volatility_adjusted_position_sizing
+> expectancy_optimization
+```
 
-Quantitative Strategy Development  
-Market Structure & Liquidity Modeling  
-Regime Detection & Risk Asymmetry  
-Backtesting & Walk-Forward Validation  
-Machine Learning for Financial Signals  
+------------------------------------------------------------------------
 
----
+``` bash
+$ research_framework
+for model in strategy:
+    validate(out_of_sample)
+    stress_test(volatility_regimes)
+    include(transaction_costs)
+    measure(expectancy, drawdown, sharpe)
+```
 
-## Research Approach
+------------------------------------------------------------------------
 
-All models must:
+``` bash
+$ stack
+python
+numpy
+pandas
+scikit-learn
+pytorch
+sql
+```
 
-• Survive out-of-sample testing  
-• Remain robust across volatility regimes  
-• Maintain positive expectancy under realistic costs  
-• Prioritize risk control over return optics  
+------------------------------------------------------------------------
 
-Edge is engineered through structure, not prediction.
+``` bash
+$ active_projects
+[1] systematic_backtesting_engine
+[2] liquidity_sweep_model
+[3] regime_detection_pipeline
+[4] time_series_forecasting
+```
 
----
+------------------------------------------------------------------------
 
-## Current Work
+``` bash
+$ metrics_that_matter
+expectancy > win_rate
+risk_control > return_optics
+process > outcome
+```
 
-Strategy Research  
-- Liquidity sweep modeling  
-- Structural break detection  
-- Volatility-adjusted position sizing  
-- Expectancy optimization  
+------------------------------------------------------------------------
 
-Machine Learning  
-- Feature engineering for time series  
-- Classification pipelines  
-- Noise reduction and signal filtration  
-
-System Engineering  
-- Modular backtesting frameworks  
-- Performance diagnostics  
-- Drawdown analysis  
-
----
-
-## Technical Stack
-
-Python  
-NumPy  
-Pandas  
-Scikit-Learn  
-PyTorch  
-SQL  
-
-Core Areas:  
-Time Series Modeling  
-Backtesting Engines  
-Risk Modeling  
-Statistical Validation  
-
----
-
-## Selected Work
-
-Customer Churn Prediction Application  
-Time Series Forecasting (ARIMA-based systems)  
-Interactive Data Dashboards  
-
-Portfolio:  
-https://pavansy6.github.io/portfolio/  
-
----
-
-## Contact
-
-Email: pavansy2006@gmail.com  
-LinkedIn: https://linkedin.com/in/pavansyadav  
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0A0F1F&height=90&section=footer"/>
+``` bash
+$ links
+portfolio  : https://pavansy6.github.io/portfolio/
+github     : https://github.com/pavansy6
+linkedin   : https://linkedin.com/in/pavansyadav
+email      : pavansy2006@gmail.com
+```
