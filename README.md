@@ -1,75 +1,80 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:111827&height=180&section=header&text=Pavan%20Yadav&fontSize=42&fontColor=E5E7EB&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F27,100:1E2749&height=180&section=header&text=Pavan%20Yadav%20⚡&fontSize=45&fontColor=90E0EF&fontAlignY=40" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=90E0EF&center=true&vCenter=true&width=650&lines=Quant+Strategist+%7C+Algorithmic+Systems;Signal+Engineering+%7C+Risk+Optimization;Backtesting+%7C+Execution+Frameworks" />
+</p>
 
 ---
 
-# SYSTEMATIC RESEARCH LOG
+## 🧠 About Me
 
-> Building probabilistic decision systems in uncertain environments.
+I engineer **data-driven insights** into systematic strategies with measurable edge.
 
----
-
-## CURRENT OBSESSIONS
-
-• Market microstructure  
-• Liquidity dynamics  
-• Regime classification  
-• Risk asymmetry  
-• Execution efficiency  
+No noise —  
+just **models that survive stress, regime shifts, and real-world uncertainty**.
 
 ---
 
-## RESEARCH PHILOSOPHY
+## 🎯 Areas of Focus
 
-Edge is engineered.  
-Alpha is fragile.  
-Risk compounds faster than ego.  
-
-Every model must survive:
-- Out-of-sample validation  
-- Regime shifts  
-- Structural stress  
+- 🔍 **Quantitative Strategy Development**  
+- 📊 **Risk & Regime Analytics**
+- ⏱ **Backtesting & Simulation**
+- 📈 **Time Series Forecasting**
+- 🤖 **ML for Financial Signals**
+- ⚙️ **Execution Logic + Automation**
 
 ---
 
-## ACTIVE WORK
+## 🛠 Tech Stack
 
-Quant Strategy Development  
-- Liquidity sweep modeling  
-- Structure break detection  
-- Volatility-adjusted position sizing  
-- Expectancy optimization  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,git,pytorch,tensorflow,pandas,numpy,sklearn,matplotlib" />
+</p>
 
-Machine Learning  
-- Signal classification pipelines  
-- Feature engineering for time-series  
-- Noise filtration  
+`Python` • `Pandas` • `NumPy` • `Scikit-Learn` • `PyTorch`  
+`Backtesting Engines` • `Statistical Modeling` • `ML Pipelines`
 
 ---
 
-## STACK
+## 📌 Signature Work
 
-Python  
-NumPy / Pandas  
-Scikit-Learn  
-PyTorch  
-SQL  
+### 📈 Algorithmic Logic & Signal Structuring  
+- Custom frameworks for identifying regime shifts  
+- Feature engineering for predictive signals  
+- Structural risk estimation
 
----
+### 🔄 Backtesting + Stress Framework  
+- Walk-forward validation  
+- Cross-regime robustness tests  
+- Systematic drawdown analysis
 
-## METRIC THAT MATTERS
+### 📊 Analytics & Dashboards  
+- Interactive visualization for hypothesis testing  
+- Time-series decomposition & model evaluation
 
-Expectancy > Win Rate  
-Risk Control > Returns  
-Process > Outcome  
-
----
-
-## CONTACT
-
-Email: pavansy2006@gmail.com  
-LinkedIn: linkedin.com/in/pavansyadav  
+🔗 Full projects + visuals on portfolio site
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0B0F19&height=100&section=footer"/>
+## 📡 Contact & Links
+
+<p align="center">
+  <a href="mailto:pavansy2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-90E0EF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pavansyadav">
+    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/pavansy6">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://pavansy6.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=webflow&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2749,100:0A0F27&height=90&section=footer" />
