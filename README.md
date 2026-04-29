@@ -1,72 +1,77 @@
 # terminal --user pavan
 
-``` bash
+```bash
 $ whoami
 Pavan Yadav
 
 $ role
-Quantitative Researcher / System Builder
+AI Engineer / Quantitative Researcher / System Builder
 
 $ philosophy
-"Edge is engineered. Risk is managed. Noise is ignored."
+"Build intelligently. Automate relentlessly. Scale efficiently."
 ```
 
 ------------------------------------------------------------------------
 
-``` bash
+```bash
 $ focus --current
-> market_microstructure
-> liquidity_dynamics
-> regime_classification
-> volatility_adjusted_position_sizing
-> expectancy_optimization
+> llm_engineering
+> rag_systems
+> ai_infrastructure
+> workflow_automation
+> model_quantization
+> quantitative_research
 ```
 
 ------------------------------------------------------------------------
 
-``` bash
-$ research_framework
-for model in strategy:
-    validate(out_of_sample)
-    stress_test(volatility_regimes)
-    include(transaction_costs)
-    measure(expectancy, drawdown, sharpe)
+```bash
+$ engineering_framework
+for system in production:
+    optimize(performance)
+    secure(infrastructure)
+    automate(workflows)
+    monitor(reliability, cost)
 ```
 
 ------------------------------------------------------------------------
 
-``` bash
+```bash
 $ stack
 python
-numpy
-pandas
-scikit-learn
+fastapi
+streamlit
+langchain
+ollama
 pytorch
 sql
+docker
+github_actions
 ```
 
 ------------------------------------------------------------------------
 
-``` bash
+```bash
 $ active_projects
-[1] systematic_backtesting_engine
-[2] liquidity_sweep_model
-[3] regime_detection_pipeline
-[4] time_series_forecasting
+[1] enterprise_rag_pipeline
+[2] ai_policy_enforcement_workflows
+[3] llm_cost_optimization_system
+[4] quantitative_backtesting_engine
+[5] model_quantization_research
 ```
 
 ------------------------------------------------------------------------
 
-``` bash
+```bash
 $ metrics_that_matter
-expectancy > win_rate
-risk_control > return_optics
+efficiency > complexity
+scalability > shortcuts
 process > outcome
 ```
 
 ------------------------------------------------------------------------
 
-``` bash
+```bash
 $ links
 portfolio  : https://pavansy6.github.io/portfolio/
 github     : https://github.com/pavansy6
